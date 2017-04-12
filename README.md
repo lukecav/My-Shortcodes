@@ -4,13 +4,12 @@ My-Shortcodes
 WordPress plugin that allows you to add custom code as a shortcode to be used within your pages or posts.
 
 === My Shortcodes ===
-Contributors: Desertsnowman
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PA8U68HRBXTEU&lc=ZA&item_name=my-shortcodes&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
+Contributors: Desertsnowman, lukecav
 
 Tags: shortcode, My Shortcodes, shortcode builder, custom shortcode, custom code, widgets, custom widget, caldera engine lite, caldera, caldera engine
-Requires at least: 3.3
-Tested up to: 3.5.1
-Stable tag: 2.0
+Requires at least: 4.6
+Tested up to: 4.7.3
+Stable tag: 2.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
