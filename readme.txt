@@ -1,10 +1,9 @@
 === My Shortcodes ===
-Contributors: Desertsnowman
-Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=PA8U68HRBXTEU&lc=ZA&item_name=my-shortcodes&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_LG%2egif%3aNonHosted
+Contributors: Desertsnowman, lukecav
 
 Tags: shortcode, My Shortcodes, shortcode builder, custom shortcode, custom code, widgets, custom widget, caldera engine lite, caldera, caldera engine
-Requires at least: 3.3
-Tested up to: 3.6
+Requires at least: 4.6
+Tested up to: 4.7.3
 Stable tag: 2.04
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -20,7 +19,7 @@ This enables you to render the page or posts with the requires scripts and style
 
 IMPORTANT: version 2 is not compatible with 1.9.2 exported .CE files. If you have exported and saved .ce shortcodes. Please import them before upgrading. once upgraded, the shortcodes will be converted. you can then export the converted elements to .MSC files for safe keeping.
 
-[on GitHub](https://github.com/Desertsnowman/My-Shortcodes)
+[on GitHub](https://github.com/lukecav/My-Shortcodes/)
 
 [Documentation](http://docs.caldera.co.za/)
 
@@ -52,6 +51,9 @@ navigate to the plugin in admin
 Click upgrade elements
 
 == Changelog ==
+
+= 2.05 =
+* Fix issues with PHP and WordPress.
 
 = 2.04 =
 * Swapped out the old MSC file for json import. This correct a bug that caused broken imports and extends compatibility with Caldera Engine.
