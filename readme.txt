@@ -4,7 +4,7 @@ Contributors: Desertsnowman, lukecav
 Tags: shortcode, My Shortcodes, shortcode builder, custom shortcode, custom code, widgets, custom widget, caldera engine lite, caldera, caldera engine
 Requires at least: 4.6
 Tested up to: 4.7.3
-Stable tag: 2.04
+Stable tag: 2.05
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
